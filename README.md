@@ -1,5 +1,12 @@
 # HTML5PlayRtsp
 
+### 使用方法
+1. 发布AnyExeToService项目.
+2. 发布VideoAdapter项目.
+3. 将VideoAdapter项目发布的文件拷贝到AnyExeToService项目的发布文件里
+4. 执行AnyExeToService.exe
+
+
 ### 所用到的开源项目
 
 #### AnyExeToService 
