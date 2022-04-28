@@ -18,3 +18,7 @@ https://github.com/kklldog/AServer
 ### RTSP转flv原理
 
 nginx-rtmp 模块
+
+
+### AnyExeToService
+将VideoAdapter项目的部署文件.exe 转换成windows 服务
